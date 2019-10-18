@@ -1,0 +1,26 @@
+.topmenu {
+    margin: 0  !important;
+    box-shadow: none !important;
+}
+
+.orange-text {
+    color: orange !important;
+}
+
+.keyboard-background {
+    background-image: url('https://mechanicalkeyboards.com/images/sliders/Pure_White_Minis_home_slide.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.dark-bg {
+    background-color: #2e2e2e;
+}
+
+.black-bg {
+    background-color: black;
+}
+
+.white-text {
+    color: white !important;
+}
